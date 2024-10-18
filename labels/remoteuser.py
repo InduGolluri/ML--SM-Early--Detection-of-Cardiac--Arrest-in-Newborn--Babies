@@ -1,0 +1,2 @@
+from Remote_User.models import 
+ClientRegister_Model,cardiac_arrest_prediction,detection_ratio,detection_accuracy
