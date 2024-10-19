@@ -1,9 +1,8 @@
 # ML-SM Early Detection of Cardiac Arrest in Newborn Babies
 
-##
+Hey there! I’m Hindhu, your final-year BTech friend! 🎓✨ Welcome to GitHub, where we can play, learn, and collaborate on exciting projects together. With a passion for coding and a specialization in Artificial Intelligence, Machine Learning, and Full Stack Development, I love diving into innovative solutions and tackling complex challenges.
 
 ### Overview
-
 
 Cardiac arrest in newborns is a critical condition that requires early detection to improve outcomes. Machine learning models can analyze vital signs and medical histories to identify risk factors and predict potential cardiac arrest, enabling timely interventions. This approach enhances monitoring efficiency and can significantly reduce mortality rates in affected infants.
 
@@ -11,7 +10,7 @@ The model demonstrated promising results, achieving a delta-p value of 0.912 dur
 
 ## Live Website
 You can view the live demo of the system here:
-**Live Website Link**:[LIve Project]() 
+**Live Website Link**:[Live Project]() 
 
 
 
@@ -46,5 +45,23 @@ You can view the live demo of the system here:
 - **Database**: MySQL (using WAMP Server)
 
 ## Screenshots of the Project
+
+### LoginPage-
+ADDING DETAILS HeRE:-
+![Login Page]()
+
+### Data Set Result
+Trained and tested traffic data sets results
+![Result]()
+
+### BAR GRAPH
+![Graph]()
+
+
+### TEST DATA
+![Test-Data]()
+
+### GRAPH
+![Graph]()
 
 
