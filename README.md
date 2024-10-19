@@ -67,3 +67,31 @@ Trained and tested traffic data sets results
 ![Graph](https://github.com/InduGolluri/ML--SM-Early--Detection-of-Cardiac--Arrest-in-Newborn--Babies/blob/main/labels/Module/Data/Graph.jpg)
 
 
+## Future Scope 
+
+
+1. **Real-Time Monitoring:**
+   - Create a system for continuous health monitoring and instant feedback for healthcare providers.
+
+2. **Hospital Partnerships:**
+   - Collaborate with hospitals to validate and refine the model in clinical settings.
+
+3. **Mobile App Development:**
+   - Build an app for parents and healthcare workers to receive alerts and insights based on predictions.
+
+4. **User-Friendly Interface:**
+   - Design an intuitive dashboard for healthcare professionals to visualize critical data clearly.
+
+5. **Continuous Learning:**
+   - Implement a system that improves over time with new data and changing medical practices.
+
+6. **Broader Use Cases:**
+   - Expand the model’s application to other serious conditions in newborns and young children.
+
+7. **Telemedicine Integration:**
+   - Integrate with telemedicine services for remote monitoring and consultations.
+
+8. **Regulatory Approval:**
+   - Seek official approval for the model to ensure safety and effectiveness in clinical use.
+
+
