@@ -48,20 +48,22 @@ You can view the live demo of the system here:
 
 ### LoginPage-
 ADDING DETAILS HeRE:-
-![Login Page]()
+
+![Login Page](https://github.com/InduGolluri/ML--SM-Early--Detection-of-Cardiac--Arrest-in-Newborn--Babies/blob/main/labels/Module/Data/LoginPage.jpg)
 
 ### Data Set Result
 Trained and tested traffic data sets results
-![Result]()
+
+![Result](https://github.com/InduGolluri/ML--SM-Early--Detection-of-Cardiac--Arrest-in-Newborn--Babies/blob/main/labels/Module/Data/Result.png.jpg)
 
 ### BAR GRAPH
-![Graph]()
+![Graph](https://github.com/InduGolluri/ML--SM-Early--Detection-of-Cardiac--Arrest-in-Newborn--Babies/blob/main/labels/Module/Data/AccuracyGraph.jpg)
 
 
 ### TEST DATA
-![Test-Data]()
+![Test-Data](https://github.com/InduGolluri/ML--SM-Early--Detection-of-Cardiac--Arrest-in-Newborn--Babies/blob/main/labels/Module/Data/TrainedData.jpg)
 
 ### GRAPH
-![Graph]()
+![Graph](https://github.com/InduGolluri/ML--SM-Early--Detection-of-Cardiac--Arrest-in-Newborn--Babies/blob/main/labels/Module/Data/Graph.jpg)
 
 
